@@ -1,0 +1,13 @@
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+demo/.env
+demo/.env.*
+activities/**/actual/*.csv
+activities/**/actual/*.txt
+activities/**/actual/*.json
+!activities/**/actual/.gitkeep

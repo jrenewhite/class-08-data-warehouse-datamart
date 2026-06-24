@@ -1,0 +1,4 @@
+-- Validacion publica conceptual:
+-- buscar beneficio
+-- buscar limitacion
+-- buscar tradeoff

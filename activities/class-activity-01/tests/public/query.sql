@@ -1,0 +1,4 @@
+-- Validacion publica conceptual:
+-- buscar capa elegida
+-- buscar necesidad analitica
+-- buscar justificacion

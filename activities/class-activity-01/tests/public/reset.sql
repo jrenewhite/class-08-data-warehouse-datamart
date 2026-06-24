@@ -1,0 +1,1 @@
+-- No se requiere reset de datos para esta validacion publica.

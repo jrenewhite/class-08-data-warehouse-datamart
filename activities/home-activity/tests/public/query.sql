@@ -1,0 +1,5 @@
+-- Validacion publica conceptual:
+-- buscar caso elegido
+-- buscar capa elegida
+-- buscar por que
+-- buscar limitacion o tradeoff
