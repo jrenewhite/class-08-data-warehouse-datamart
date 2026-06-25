@@ -211,6 +211,20 @@ Ese checkpoint:
 
 Busca validar direccion, alcance y criterio.
 
+Casos asignados:
+
+- `CafeNube` - Ruano Galvez Joseph Emiliano
+- `FleetGo` - Carrera Hernandez Claudio
+- `MercadoMax` - Fernandez Gonzalez Alexis Emmanuel
+- `TaskHive` - Lara Castro Jesus Alejandro
+- `Webflix` - Nogales Escalona Daniel de Jesus
+
+La presentacion del checkpoint es individual y tiene hasta `5 minutos` para explicar:
+
+1. caso y problema central
+2. diagrama o esquema logico actual
+3. propuesta inicial de solucion
+
 ## Troubleshooting
 
 ### No veo datos de conexion en la terminal

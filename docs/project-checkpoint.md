@@ -29,6 +29,24 @@ Debes poder mostrar, de forma breve y clara:
 - 1 decision tecnica importante
 - 1 riesgo o duda
 
+## Casos asignados para el checkpoint
+
+- `CafeNube` - Ruano Galvez Joseph Emiliano
+- `FleetGo` - Carrera Hernandez Claudio
+- `MercadoMax` - Fernandez Gonzalez Alexis Emmanuel
+- `TaskHive` - Lara Castro Jesus Alejandro
+- `Webflix` - Nogales Escalona Daniel de Jesus
+
+## Regla de presentacion
+
+Cada presentacion es individual y tiene hasta `5 minutos`.
+
+Distribucion sugerida:
+
+1. caso y problema central
+2. diagrama o esquema logico actual
+3. propuesta inicial de solucion
+
 ## Que no se espera todavia
 
 No se espera:
