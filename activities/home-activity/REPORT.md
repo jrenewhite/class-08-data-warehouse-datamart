@@ -1,5 +1,7 @@
 # Reporte - Home Activity 08
 
+Escribe respuestas cortas pero claras. La idea es justificar tu decision, no escribir mucho.
+
 ## 1. ¿Que caso elegiste?
 
 ## 2. ¿Elegiste warehouse o datamart?

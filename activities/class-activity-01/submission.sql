@@ -1,8 +1,12 @@
+-- Instruccion:
+-- no escribas SQL ejecutable aqui
+-- usa este archivo como plantilla de respuesta
+
 -- Capa elegida:
--- datamart
+-- escribe warehouse o datamart
 
 -- Necesidad analitica:
--- seguimiento de ventas por sucursal y categoria para el equipo comercial
+-- resume en una frase la necesidad que estas atendiendo
 
 -- Justificacion:
--- la necesidad es enfocada y el consumidor del dato es especifico
+-- explica por que esa capa tiene sentido para este caso

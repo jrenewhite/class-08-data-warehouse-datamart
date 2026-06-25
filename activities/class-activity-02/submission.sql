@@ -1,8 +1,12 @@
+-- Instruccion:
+-- no escribas SQL ejecutable aqui
+-- usa este archivo como plantilla de respuesta
+
 -- Beneficio:
--- integrar mejor pedidos y pagos permite una lectura mas consistente del ingreso
+-- indica que mejora al integrar o servir mejor el dato
 
 -- Limitacion:
--- una capa mas central requiere mas trabajo de alineacion y mantenimiento
+-- indica que dificultad, costo o esfuerzo aparece
 
 -- Tradeoff:
--- ganas coherencia compartida, pero aumentas complejidad de integracion
+-- explica que ganas y que sacrificas al mismo tiempo

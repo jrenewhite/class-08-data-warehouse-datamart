@@ -1,14 +1,18 @@
+-- Instruccion:
+-- no escribas SQL ejecutable aqui
+-- usa este archivo como plantilla de respuesta
+
 -- Caso elegido:
--- una empresa pequena que quiere integrar ventas, pagos y comportamiento comercial
+-- describe brevemente la empresa o situacion
 
 -- Capa elegida:
--- warehouse
+-- escribe warehouse o datamart
 
 -- Por que:
--- necesita una lectura mas integrada para varias preguntas analiticas compartidas
+-- explica por que elegiste esa capa
 
 -- Problema que resuelve:
--- consolidar informacion que hoy vive dispersa y dificulta comparacion consistente
+-- indica que necesidad analitica ayuda a resolver
 
 -- Limitacion o tradeoff:
--- aumenta el esfuerzo de integracion y puede ser mas pesado que una capa enfocada
+-- explica que limitacion, costo o dificultad aparece
