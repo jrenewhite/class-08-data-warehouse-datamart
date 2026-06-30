@@ -3,16 +3,23 @@
 -- usa este archivo como plantilla de respuesta
 
 -- Caso elegido:
--- describe brevemente la empresa o situacion
+-- Sistema CaféNube para analizar las ventas de productos y el
+-- inventario de insumos en las diferentes sucursales.
 
 -- Capa elegida:
--- escribe warehouse o datamart
+-- Datamart
 
 -- Por que:
--- explica por que elegiste esa capa
+-- porque el analisis se enfoca en un area especifica del negocio:
+-- ventas e inventario. No es necesario integrar informacion de
+-- todas las areas de la empresa.
 
 -- Problema que resuelve:
--- indica que necesidad analitica ayuda a resolver
+-- facilita consultar que productos se venden mas, identificar
+-- insumos con bajo inventario y apoyar la toma de decisiones
+-- operativas.
 
 -- Limitacion o tradeoff:
--- explica que limitacion, costo o dificultad aparece
+-- un datamart tiene un alcance limitado y no permite realizar
+-- analisis integrales que involucren otras areas como finanzas,
+-- recursos humanos o marketing.
